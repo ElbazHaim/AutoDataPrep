@@ -8,6 +8,7 @@ authors = [
 dependencies = [
     "transformers>=4.43.2",
     "langchain>=0.2.11",
+    "ipython>=8.26.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
