@@ -14,5 +14,5 @@ pip install .
 
 You can also install the project remotely, using:
 ```
-pip install git+http:<repository-address>
+pip install git+https://github.com/ElbazHaim/AutoDataPrep.git
 ```
